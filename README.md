@@ -1,7 +1,5 @@
 # Review Sentiment Analysis Web Application
 
-![Project Logo](https://via.placeholder.com/150)
-
 ## 📖 Project Overview
 
 **Review Sentiment Analysis Web Application** is a Flask-based web application designed to analyze the sentiment of user-submitted reviews. Leveraging a machine learning model, the app predicts whether a given review is **positive** or **negative**, providing valuable insights into user feedback.
