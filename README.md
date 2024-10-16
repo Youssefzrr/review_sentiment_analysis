@@ -24,7 +24,7 @@
   - Flask 2.x
 
 - **Machine Learning:**
-  - [Your ML Libraries Here] (e.g., scikit-learn, TensorFlow, etc.)
+  - scikit-learn
 
 - **Version Control:**
   - Git
@@ -41,5 +41,5 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Youssefzrr/review_sentiment_analysis.git
+cd review_sentiment_analysis
